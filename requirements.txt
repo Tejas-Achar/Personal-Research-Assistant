@@ -1,0 +1,8 @@
+nltk
+google
+PyQt5
+python-docx
+requests
+PIL
+urlib
+bs4
